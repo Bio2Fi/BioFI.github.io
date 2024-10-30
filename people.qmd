@@ -3,20 +3,3 @@ title: "Lab Members"
 from: markdown+emoji
 ---
 
-## Brian Maitner
-
-*Academic stuff*
-
-I'm an Assistant Professor of Global Change in the Integrative Biology Department at the University of South Florida - St. Petersburg. I'm a macroecologist and community ecologist who works across taxa (primarily focusing on plants and terrestrial vertebrates) using both ecological and evolutionary approaches with strong informatics and computational components. I'm a big believer in working collaboratively, which benefits from the integration of diverse perspectives and multiple skill sets. 
-
-- [Twitter](https://x.com/BrianMaitner) @BrianMaitner
-- [ResearchGate](https://www.researchgate.net/profile/Brian-Maitner)
-- [Google Scholar](https://scholar.google.com/citations?user=GVb9deIAAAAJ&hl=en)
-- [Github](https://github.com/bmaitner)
-
-*Non-academic stuff*
-
-Outside of work I'm an avid reader (golden age sci-fi, classic literature, philosophy, comic books, etc.) and toy fan (action figures and Legos), and I enjoy a wide variety of music and movies (particularly from the 80s).
-
-- [Discogs](https://www.discogs.com/user/bmaitner)
-- [Letterboxd](https://letterboxd.com/maitner/)
