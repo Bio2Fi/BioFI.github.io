@@ -1,17 +1,23 @@
-# Overview
-The focus of the lab is (primarily) on topics related to biodiversity, including quantifying and mapping biodiversity, understanding the drivers of biodiversity patterns and how biodiversity may be impacted by global changes, and working on making these findings relevant for decision makers. Work in the lab is open to any group of organisms, but tends to focus on plants (as they account for most of the biomass on Earth and their traits are primary drivers of terrestrial ecosystem functioning). We practice Open Science and take a highly collaborative and cooperative approach to research.
+<p style="text-align:center;"><img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/BioFi-logo_sat.jpg?raw=true" alt="Logo" width = 600></p>
 
-# Research Areas
-
-### Biodiversity patterns
-We study biodiversity patterns using both top-down and bottom-up approaches. With the top-down approach, we use data science to aggregate and clean existing data to ask questions at large spatial or taxonomic scales. For example, we've worked with our collaborators to assess knowledge gaps in [plant data](http://dx.doi.org/10.1111/nph.18999) and shortfalls in [plant conservation assessments](https://doi.org/10.1002/ppp3.10369), and have shown how database integration can lead to massive [improvements in data availability](http://dx.doi.org/10.1111/geb.13497). With the bottom-up approach, we focus on using field observations to understand biodiversity patterns and their correlates. For example, with our collaborators, we've worked on understanding environmental correlates of plant traits in [China](https://doi.org/10.3389/fpls.2018.01548), [Norway](https://doi.org/10.1002/ecm.1555), [Peru](http://dx.doi.org/10.1111/geb.12645), and other locations. We also work on improving how trait-based ecology is done, including [better incorporating uncertainty](https://doi.org/10.1111/2041-210X.14160) and advocating for [best-practices in trait-based ecology](https://doi.org/10.1111/2041-210X.14033).
-
-### Conservation
-In addition to studying biodiversity patterns themselves, we're interested in how that knowledge can be applied in a conservation setting. Knowing how biodiversity is distributed, and how it might be changing, is of critical importance for protecting biodiversity (and its contributions to people). For example, we've worked with colleagues to understand how climate change may be [threatening cactus species](http://dx.doi.org/10.1038/s41477-022-01130-0) and how we can design protected areas in response to [species range shifts](https://doi.org/10.1111/ecog.05166). We've also worked to asssess the impacts of fires on biodiversity in both the [Amazon](https://www.nature.com/articles/s41586-021-03876-7) and [Australia](https://doi.org/10.1111/ddi.13265). We're also interested in how global change drivers can be used as "unplanned experiments" to test ecological theories, for example testing community assembly theory using [bird introductions](https://doi.org/10.1111/ecog.05934).
-
-### Open Science
-Open Science work in the lab includes both work focused on the development and dissemination of Open Science products and work focused on the impacts of Open Science. For example, we participate in the development and maintainance of multiple R packages, including [BIEN](https://doi.org/10.1111/2041-210X.12861), [TNRS](https://cran.r-project.org/package=TNRS), [GNRS](https://doi.org/10.1371/journal.pone.0268162), and [Wallace 2](https://doi.org/10.1111/ecog.06547). In terms of work focused on the impact of Open Science, we've published on the importance of [Open Science in trait-based ecology](https://www.nature.com/articles/s41559-020-1109-6), the need to [incentivize software developers](https://www.nature.com/articles/s41559-023-02008-w), and have shown how [Open Science can improve citation rates](https://doi.org/10.1002/ece3.70030).
+# Biodiversity and Biosphere Forecasting Institute (BioFI)
 
 
-# Join the lab!
-We're currently looking for Masters students to join the lab. Students should be strongly self-motivated and full of ideas they're interested in! In particular, we're looking for students that have an interest in either (or both) of the following approaches: 1) using data wrangling and coding to address large-scale questions, or 2) using field-based methods to address ecological or global-change questions. Email Brian if you're interested.
+**Human well-being and security is strongly connected to the richness or loss of biodiversity.** Loss of biodiversity impacts human security in the form of water, food and health, and conversely policies and actions to ensure security of water and energy resources can significantly compromise biodiversity. As such, biodiversity is central to some of the [United Nations 2030 Sustainable Development Goals](https://sustainabledevelopment.un.org/sdgs) targeting zero hunger, good well-being, life below water and on land and climate action. 
+
+**Preventing extinctions of the species sharing our planet and maintaining ecosystem services is among the greatest challenges of our time.** The science needed to understand and mitigate the impacts of global change on the biosphere will require both unprecedented access to diverse biological and environmental data across space, time, and scales and the synthesis and development of predictive theory. 
+
+**BioFI focuses on science to assess the consequences of changing and losing biodiversity** across spatial and temporal scales and forecasting its effects on ecosystem function, and consequently human well-being.
+
+<br>
+<br>
+
+The Biodiversity and Biosphere Forecasting Institute (BioFI) provides the computational and data foundation as well as the collaboration mechanisms to facilitate the science needed to rapidly address grand environmental challenges.
+
+BioFI focuses on how to anticipate and predict transformative biosphere events, the fate of biodiversity, and the biosphere, under divergent scenarios/futures, and create actionable plans to prevent the loss of biodiversity and ecosystem services across the globe. BioFI’s scientific approach is guided by ecological theory and co-design principles of scientific inquiry. The outcomes will enhance the discovery, integration and utilization of Big Data from the biological, environmental, computer, and social sciences. BioFI will address three broad scientific issues:
+
+* Developing robust local to global predictions that can best forecast trajectories of biodiversity and the biosphere
+
+* Anticipating, predicting, and assessing how transformative local and biosphere events, such as fire, drought, heat waves, and other environmental calamities impact biodiversity, biosphere functioning, and human well being via ecosystem services
+
+* Developing the science needed to prevent loss of biodiversity and ecosystem services in the face of transformative and extreme biosphere events at regional and global scales
