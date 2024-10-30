@@ -14,9 +14,11 @@ website:
     #href: https://openscapes.org
     right:
      - text: "Home"
-       href: index.html
+       href: index.qmd
      - text: "Team"
        href: team.qmd
+     - text: "Projects"
+       href: projects.qmd
      - icon: github
        href: https://github.com/MaitnerLab
     #- text: "About"                      
