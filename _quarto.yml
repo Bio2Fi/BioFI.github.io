@@ -2,8 +2,8 @@ project:
   type: website
 
 website:
-  title: "Maitner Lab"
-  site-url: https://MaitnerLab.github.io/
+  title: "BioFI"
+  site-url: https://BioFI.github.io/
   #favicon: images/openscapes_hex.png  
   
   page-footer: 
