@@ -15,8 +15,8 @@ website:
     right:
      - text: "Home"
        href: index.html
-     - text: "People"
-       href: people.qmd
+     - text: "Team"
+       href: team.qmd
      - icon: github
        href: https://github.com/MaitnerLab
     #- text: "About"                      
