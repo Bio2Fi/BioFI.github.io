@@ -19,8 +19,10 @@ website:
        href: team.qmd
      - text: "Projects"
        href: projects.qmd
+     - text: "Publications"
+       href: publications.qmd
      - icon: github
-       href: https://github.com/MaitnerLab
+       href: https://github.com/Bio2FI
     #- text: "About"                      
     #  menu:
     #    - text: "About"
