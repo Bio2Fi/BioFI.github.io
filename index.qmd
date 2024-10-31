@@ -5,7 +5,7 @@ toc: false
 page-layout: full
 --- 
 
-![](assets/images/BioFi-logo_sat.jpg){width=600}
+![](assets/images/BioFi-logo_sat.jpg){width=600 fig-align="center"}
 
 # Biodiversity and Biosphere Forecasting Institute (BioFI)
 
