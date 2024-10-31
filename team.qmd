@@ -1,6 +1,7 @@
 ---
 layout: members
 permalink: /members/
+format: html
 execute:
   enable-fontawesome: true
 ---
