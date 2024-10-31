@@ -10,8 +10,8 @@ website:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/), with theme from [vetiver](https://github.com/rstudio/vetiver.rstudio.com)"
  
   navbar:
-   # logo: images/openscapes_hex.png
-    #href: https://openscapes.org
+    logo: assets/images/BioFi-logo_sat.jpg
+    href: https://bio2fi.github.io
     right:
      - text: "Home"
        href: index.qmd
