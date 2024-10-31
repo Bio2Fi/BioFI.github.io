@@ -23,7 +23,7 @@ website:
        href: publications.qmd
      - text: "Software"
        href: software.qmd
-     - text: "Data
+     - text: "Data"
        href: data.qmd
      - icon: github
        href: https://github.com/Bio2FI
