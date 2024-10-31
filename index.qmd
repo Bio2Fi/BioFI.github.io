@@ -8,9 +8,6 @@ toc: false
 
 ![logo1](assets/images/BioFi-logo_sat.jpg)
 
-![logo2](BioFi-logo_sat.jpg)
-
-
 # Biodiversity and Biosphere Forecasting Institute (BioFI)
 
 
