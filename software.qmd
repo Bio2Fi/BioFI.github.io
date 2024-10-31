@@ -30,15 +30,15 @@ The Geographic Name Resolution Service ([GNRS](https://cran.r-project.org/packag
 
 ### TNRS
 
-A web version of the [TNRS](https://tnrs.biendata.org/)(see above).
+A web version of the [TNRS](https://tnrs.biendata.org/) (see above).
 
 ### NSR
 
-A web version of the [NSR](https://nsr.biendata.org/)(see above).
+A web version of the [NSR](https://nsr.biendata.org/) (see above).
 
 ### GNRS
 
-A web version of the [GNRS](https://gnrs.biendata.org/)(see above).
+A web version of the [GNRS](https://gnrs.biendata.org/) (see above).
 
 ### GVS
 
