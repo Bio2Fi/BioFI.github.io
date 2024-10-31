@@ -2,6 +2,7 @@
 layout: full
 permalink: /index/
 toc: false 
+page-layout: full
 --- 
 
 ![](assets/images/BioFi-logo_sat.jpg){width=600}
