@@ -28,9 +28,23 @@ The Geographic Name Resolution Service ([GNRS](https://cran.r-project.org/packag
 
 # Web Applications
 
+### TNRS
+
+A web version of the [TNRS](https://tnrs.biendata.org/)(see above).
+
+### NSR
+
+A web version of the [NSR](https://nsr.biendata.org/)(see above).
+
+### GNRS
+
+A web version of the [GNRS](https://gnrs.biendata.org/)(see above).
+
+### GVS
+
+The Geocoordinate Validation Service [GVS](https://gvs.biendata.org/) is a web application that checks geographic coordinates for potential errors.
+
 ### GCMcompareR
 
 [GCMcompareR](https://ecoinformatica.net/GCMcompareR.html) is designed to compare general circulation models (GCMs) and different climate change scenarios to provide full, documented exploration of the possible alternative futures from within the range of projections in CMIP5 climate models.
 
-# Code from publications
-*Coming soon!*
