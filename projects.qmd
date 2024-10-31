@@ -35,7 +35,7 @@ The significance of the impacts of droughts to ecosystems and the fact that clim
 
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/Australian_droughts_over_time.jpg?raw=true" align = left alt="Droughts" width=500 img style="padding: 0px 10px 0px 0px;"/>
 
-*Projections of area under drought conditions in Australia. Multi-model projections for different emission scenarios and drought severity classes. Source: Araujo et al. “Today’s 100-year droughts in Australia may become the norm by the end of the century.” Environmental Research Letters (under revision).*
+*Left: Projections of area under drought conditions in Australia. Multi-model projections for different emission scenarios and drought severity classes. Source: Araujo et al. “Today’s 100-year droughts in Australia may become the norm by the end of the century.” Environmental Research Letters (under revision).*
 
 <br clear="left"/>
 
@@ -52,13 +52,9 @@ This sub-group focuses on using GEDI data to map forest structure at a range of 
 
 *Global protected areas are statistically matched to ecologically similar areas, and GEDI data are used to quantify the avoided carbon emissions associated with protected areas.*
 
-<br clear="left"/>
-
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/GEDI_fig_2.png?raw=true" align = left alt="GEDI 2" width=700 img style="padding: 0px 10px 0px 0px;" />
 
 *GEDI data are used to map forest height and biomass both for the Amazon basin, and at a global scale. These forest structure maps are linked to environmental change such as drought products, which will help understand and forecast potential future changes in forest structure and biomass associated with shifting climate trends.*
-
-<br clear="left"/>
 
 ____________________
 
@@ -72,7 +68,7 @@ This subgroup is currently focusing on understanding variation in the flux of wa
 
 <img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/CO_fig_2.png?raw=true" align = left alt="CO" width=500 img style="padding: 0px 10px 0px 0px;" />
 
-*Watershed ecosystem characterization and impact of landscape properties on plant community distribution: a) Map of plant species/communities distribution at 1m scale across the 4 watersheds derived by airborne hyperspectral imagery; b) Insect map showing a portion of an Aspen forest with associated canopy height (CHM) derived by airborne LiDAR data; c) PCA biplot showing the co-varibiality between community distribution and abiotic properties. (Falco et al, in prep).*
+*Left: Watershed ecosystem characterization and impact of landscape properties on plant community distribution: a) Map of plant species/communities distribution at 1m scale across the 4 watersheds derived by airborne hyperspectral imagery; b) Insect map showing a portion of an Aspen forest with associated canopy height (CHM) derived by airborne LiDAR data; c) PCA biplot showing the co-varibiality between community distribution and abiotic properties. (Falco et al, in prep).*
 
 <br clear="left"/>
 
