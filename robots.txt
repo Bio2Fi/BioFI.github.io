@@ -1,1 +1,1 @@
-Sitemap: https://BioFI.github.io/sitemap.xml
+Sitemap: https://bio2fi.github.io/sitemap.xml
