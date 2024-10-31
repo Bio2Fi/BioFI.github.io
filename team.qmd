@@ -1,6 +1,8 @@
 ---
 layout: members
 permalink: /members/
+execute:
+  enable-fontawesome: true
 ---
 
 # BioFI PIs
