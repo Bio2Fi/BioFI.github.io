@@ -4,7 +4,7 @@ project:
 website:
   title: "BioFI"
   site-url: https://bio2fi.github.io
-  #favicon: images/openscapes_hex.png  
+  favicon: assets/images/BioFi-logo_sat.jpg  
   
   page-footer: 
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/), with theme from [vetiver](https://github.com/rstudio/vetiver.rstudio.com)"
