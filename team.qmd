@@ -194,7 +194,7 @@ _______________
 <img src="https://github.com/Bio2Fi/bio2fi.github.io/blob/main/assets/images/brian-s-maitner.jpg?raw=true" align = left alt="Brian" width=200 img style="padding: 0px 10px 0px 0px;"/>
 
 Brian is a macroecologist and community ecologist who is interested in the origin, maintenance, and conservation of biodiversity.  He focuses on phylogenetic and trait-based approaches to quantifying diversity, and is interested in generalities across different systems.
-[![](assets/images/github-mark.svg){width=600 fig-align="center"}](https://github.com/bmaitner)
+[![](assets/images/github-mark.svg){width=50}](https://github.com/bmaitner)
 <br clear="left"/>
 
 _______________
