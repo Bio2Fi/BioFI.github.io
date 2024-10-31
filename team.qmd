@@ -193,6 +193,8 @@ _______________
 Brian is a macroecologist and community ecologist who is interested in the origin, maintenance, and conservation of biodiversity.  He focuses on phylogenetic and trait-based approaches to quantifying diversity, and is interested in generalities across different systems.
 <br clear="left"/>
 
+{{< bi github >}}
+
 _______________
 
 
