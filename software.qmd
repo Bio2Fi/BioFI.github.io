@@ -18,7 +18,7 @@ The Taxonomic Name Resolution Service ([TNRS](https://cran.r-project.org/package
 
 The Native Status Resolver ([NSR](https://cran.r-project.org/package=NSR)) categorizes plant occurrence records as native or non-native, and provides details on how this decision was made.
 
-### <a href = "https://cran.r-project.org/package=GNRS">GNRS</a>
+### GNRS
 
 The Geographic Name Resolution Service ([GNRS](https://cran.r-project.org/package=GNRS)) cleans and standardizes political division names based on geonames.org and GADM standards.
 
