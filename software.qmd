@@ -6,9 +6,9 @@ permalink: /software/
 
 # R packages
 
-###[BIEN](https://cran.r-project.org/package=BIEN)
+### BIEN
 
-BIEN is an R package that allows users to easily download various types of plant data (e.g. occurrence records, range maps, trait data)
+[BIEN](https://cran.r-project.org/package=BIEN) is an R package that allows users to easily download various types of plant data (e.g. occurrence records, range maps, trait data)
 
 ### <a href = "https://github.com/EnquistLab/RTNRS">TNRS</a>
 
