@@ -197,6 +197,7 @@ Brian is a macroecologist and community ecologist who is interested in the origi
 <br clear="left"/>
 
 :fa-github: [BMaitner](https://github.com/bmaitner)
+{{< fa folder >}}
 
 _______________
 
