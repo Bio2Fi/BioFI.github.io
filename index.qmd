@@ -1,4 +1,4 @@
-<p style="text-align:center;"><img src="https://github.com/Biodiversity-Forecasting-Institute/biofi.github.io/blob/master/assets/images/BioFi-logo_sat.jpg?raw=true" alt="Logo" width = 600></p>
+<p style="text-align:center;"><img src="https://github.com/Bio2Fi/bio2fi.github.io/blob/main/assets/images/BioFi-logo_sat.jpg?raw=true" alt="Logo" width = 600></p>
 
 # Biodiversity and Biosphere Forecasting Institute (BioFI)
 
