@@ -10,9 +10,9 @@ permalink: /software/
 
 [BIEN](https://cran.r-project.org/package=BIEN) is an R package that allows users to easily download various types of plant data (e.g. occurrence records, range maps, trait data)
 
-### <a href = "https://github.com/EnquistLab/RTNRS">TNRS</a>
+### TNRS
 
-The Taxonomic Name Resolution Service (TNRS) cleans and standardizes plant scientific names.
+The Taxonomic Name Resolution Service ([TNRS](https://cran.r-project.org/package=BIEN)) cleans and standardizes plant scientific names.
 
 ### <a href = "https://github.com/EnquistLab/RNSR">NSR</a>
 
