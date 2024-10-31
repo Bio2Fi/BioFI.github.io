@@ -13,9 +13,6 @@ As part of our objective to provide rapid assessments of ecological disasters an
 
 *Cumulative effects of fire on biodiversity in the Amazon rainforest. Curves depict cumulative numbers of plant (A) and vertebrate (C) species impacted by fire since 2001 (hollow symbols represent the results based on simulated fire data). Solid lines indicate total impact across the Amazon Basin, while dotted lines represent the impact confined to Brazil. Correlations between the cumulative area impacted by fire and cumulative number of plant (B) and vertebrate (D) species in the entire forest are depicted with a 95% confidence interval (p values < 0.001). Silhouettes are courtesy of LeonardoG (photography) and T. Michael Keesey (vectorization) under a CC BY-SA 3.0 license (https://creativecommons.org/licenses/by-sa/3.0/).*
 
-<br clear="left"/>
-
-
 ____________________
 
 
