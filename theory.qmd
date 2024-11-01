@@ -1,0 +1,8 @@
+---
+layout: splash
+permalink: /theory/
+---
+
+# Theory
+
+## Trait Driver Theory
